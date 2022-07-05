@@ -1,5 +1,5 @@
 # LSOC: Lunar Surface Operations Console
-*🚀 NASA Space Apps Chalange 2021 - 🇧🇷 na Lua*
+*🚀 NASA Space Apps Challenge 2021 - 🇧🇷 na Lua*
 
 An app to solve the challenge flight controllers face in logging events during extravehicular 
 activities (EVA) and collaborate with other flight controllers in real-time using Meteor JS, 
